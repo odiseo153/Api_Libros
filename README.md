@@ -2,6 +2,9 @@
 
 ##Esta api es de libros y cuenta con los siguientes endpoints 
 
+La api intenta simular lo que seria una bliblioteca de libros en donde podemos realizar las operaciones basicas CRUD create , read, update , delete
+la api fue hecha con C# y utiliza Dapper como ORM a la vez que utiliza sql server como base de datos
+
 Endpoints (Servicios) de la API de Libros
 
 1. Obtener todos los libros
